@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+FR+Moderne:wght@100..400&display=swap');
+:root {
+    --black:#000;
+    --white:#fff;
+    --gray:rgb(190, 190, 190);
+    --red:rgb(158, 0, 0);
+    --blue:rgb(0, 89, 255);
+    --darkgoldenrod:darkgoldenrod;
+    --darkturquoise:darkturquoise;
+    --img:url("./planeta-tierra_3840x2160_xtrafondos.com.jpg");
+}
